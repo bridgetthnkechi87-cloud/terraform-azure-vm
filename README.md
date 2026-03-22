@@ -1,1 +1,1 @@
-# terraform-azure-vm
+# terraform-AWS-vm
